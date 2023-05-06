@@ -53,7 +53,7 @@ export const webSitesData: WebSiteData[] = [
     id: 2,
     src: IMG2,
     description: "A paypal clone with some page navigation",
-    url: "https://mahjs.github.io/paypal",
+    url: "https://incredible-taffy-1a4966.netlify.app",
     githubRepoUrl: "https://github.com/mahjs/paypal",
   },
 ];
