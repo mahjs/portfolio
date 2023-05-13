@@ -31,9 +31,9 @@ const About: React.FC = () => {
           <p>
             I'm a Front-End Web Developer.I have a background of project
             management and industrial engineering. I've always loved Computer
-            engineering field and finally come back to it. In the last few years
-            I've studied this field (with special focus on front-end) and
-            practiced a lot; I've benn reading many books about CS(computer
+            engineering field and had a tendency to learn it. In the last few
+            years I've studied this field (with special focus on front-end) and
+            practiced a lot; I've been reading many books about CS(computer
             science, algorithms, data structures, ...) and have a good
             understanding of it.
             <span style={{ margin: "1rem 0", display: "inline-block" }}>
