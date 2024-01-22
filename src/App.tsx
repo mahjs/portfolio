@@ -6,7 +6,6 @@ import Experience from "./components/skills/Experience";
 import Services from "./components/services/Services";
 import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
-import Portfolio from "./components/portfolio/Portfolio";
 
 export default function App(): React.ReactElement {
   return (
@@ -16,7 +15,7 @@ export default function App(): React.ReactElement {
       <About />
       <Experience />
       <Services />
-      <Portfolio />
+      {/* <Portfolio /> */}
       <Contact />
       <Footer />
     </>
